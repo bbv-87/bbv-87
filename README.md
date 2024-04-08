@@ -96,7 +96,7 @@
   </a>
   <a href="https://lucid.app/">
     <img
-      src="images/lucid-color-new.png" alt="Посетить сайт Lucid" width="45" height="auto" role="img"
+      src="images/lucid-color-new.png" alt="Посетить сайт Lucid" width="43" height="auto" role="img"
     >
   </a>
 </div>
