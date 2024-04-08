@@ -17,7 +17,7 @@
   </a>
   <a href="https://www.djangoproject.com/">
     <img
-      src="images/django-color.svg" alt="Посетить сайт Django" width="50" height="auto" role="img"
+      src="images/django-logo.png" alt="Посетить сайт Django" width="90" height="auto" role="img"
     >
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
@@ -27,7 +27,7 @@
   </a>
   <a href="https://www.django-rest-framework.org/">
     <img
-      src="images/DRF-logo.png" alt="Посетить сайт Django Rest Framework" width="130" height="auto" role="img"
+      src="images/DRF-logo.png" alt="Посетить сайт Django Rest Framework" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://flask.palletsprojects.com/">
