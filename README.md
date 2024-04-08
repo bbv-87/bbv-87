@@ -32,7 +32,7 @@
   </a>
   <a href="https://flask.palletsprojects.com/">
     <img
-      src="images/flask-color.png" alt="Посетить сайт Flask" width="50" height="auto" role="img"
+      src="images/flask-color-1.png" alt="Посетить сайт Flask" width="60" height="auto" role="img"
     >
   </a>
   <a href="https://www.postgresql.org/">
