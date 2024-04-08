@@ -17,7 +17,7 @@
   </a>
   <a href="https://www.djangoproject.com/">
     <img
-      src="images/django-logo.png" alt="Посетить сайт Django" width="98" height="auto" role="img"
+      src="images/django-logo.png" alt="Посетить сайт Django" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
@@ -76,7 +76,7 @@
   </a>
   <a href="https://black.readthedocs.io/en/stable/">
     <img
-      src="images/black-logo.png" alt="Посетить сайт Black code formatter" width="130" height="auto" role="img"
+      src="images/black-logo.png" alt="Посетить сайт Black code formatter" width="65" height="auto" role="img"
     >
   </a>
   <a href="https://www.postman.com/">
