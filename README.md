@@ -1,3 +1,9 @@
+### About me:
+I have many years of experience in the IT industry as a network engineer and team leader.
+
+Currently fully focused on software development.
+
+
 ### Stack:
 <div>
   <a href="https://www.python.org/">
