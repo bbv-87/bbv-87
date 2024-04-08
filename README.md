@@ -24,6 +24,12 @@
       alt="Посетить сайт Django"
     >
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
+    <img
+      src="images/html5-color.svg" alt="html" width="50" height="auto" role="img"
+      alt="Посетить сайт mozilla developer"
+    >
+  </a>
   <a href="https://www.django-rest-framework.org/">
     <img
       src="images/DRF-logo.png" alt="Django Rest Framework" width="130" height="auto" role="img"
