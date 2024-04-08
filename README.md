@@ -2,62 +2,52 @@
 <div>
   <a href="https://www.python.org/">
     <img
-      src="images/python-color.svg" alt="Python" width="50" height="auto" role="img"
-      alt="Посетить сайт Python"
+      src="images/python-color.svg" alt="Посетить сайт Python" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://fastapi.tiangolo.com/">
     <img
-      src="images/fastapi-color.svg" alt="Fastapi" width="50" height="auto" role="img"
-      alt="Посетить сайт Fastapi"
+      src="images/fastapi-color.svg" alt="Посетить сайт Fastapi" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://docs.pydantic.dev/">
     <img
-      src="images/pydantic-color.svg" alt="Pydantic" width="50" height="auto" role="img"
-      alt="Посетить сайт Pydantic"
+      src="images/pydantic-color.svg" alt="Посетить сайт Pydantic" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://www.djangoproject.com/">
     <img
-      src="images/django-color.svg" alt="Django" width="50" height="auto" role="img"
-      alt="Посетить сайт Django"
+      src="images/django-color.svg" alt="Посетить сайт Django" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
     <img
-      src="images/html5-color.svg" alt="html" width="50" height="auto" role="img"
-      alt="Посетить сайт mozilla developer"
+      src="images/html5-color.svg" alt="Посетить сайт mozilla developer" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://www.django-rest-framework.org/">
     <img
-      src="images/DRF-logo.png" alt="Django Rest Framework" width="130" height="auto" role="img"
-      alt="Посетить сайт Django Rest Framework"
+      src="images/DRF-logo.png" alt="Посетить сайт Django Rest Framework" width="130" height="auto" role="img"
     >
   </a>
   <a href="https://flask.palletsprojects.com/">
     <img
-      src="images/flask-color.png" alt="Flask" width="50" height="auto" role="img"
-      alt="Посетить сайт Flask"
+      src="images/flask-color.png" alt="Посетить сайт Flask" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://www.postgresql.org/">
     <img
-      src="images/postgresql-color.svg" alt="PostgreSQL" width="50" height="auto" role="img"
-      alt="Посетить сайт PostgreSQL"
+      src="images/postgresql-color.svg" alt="Посетить сайт PostgreSQL" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://www.sqlalchemy.org/">
     <img
-      src="images/sqlalchemy-color.svg" alt="Sqlalchemy" width="50" height="auto" role="img"
-      alt="Посетить сайт Sqlalchemy"
+      src="images/sqlalchemy-color.svg" alt="Посетить сайт Sqlalchemy" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://nginx.org/en/">
     <img
-      src="images/nginx-color.svg" alt="Nginx" width="50" height="auto" role="img"
-      alt="Посетить сайт Nginx"
+      src="images/nginx-color.svg" alt="Посетить сайт Nginx" width="50" height="auto" role="img"
     >
   </a>
 </div>
@@ -66,56 +56,47 @@
 <div>
   <a href="https://www.jetbrains.com/pycharm/">
     <img
-      src="images/pycharm-color.svg" alt="PyCharm" width="50" height="auto" role="img"
-      alt="Посетить сайт Pycharm"
+      src="images/pycharm-color.svg" alt="Посетить сайт Pycharm" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://code.visualstudio.com/">
     <img
-      src="images/visualstudiocode-color.svg" alt="Visual Studio Code" width="50" height="auto" role="img"
-      alt="Посетить сайт Visual Studio Code"
+      src="images/visualstudiocode-color.svg" alt="Посетить сайт Visual Studio Code" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://python-poetry.org/">
     <img
-      src="images/poetry-color.svg" alt="Poetry" width="50" height="auto" role="img"
-      alt="Посетить сайт Poetry"
+      src="images/poetry-color.svg" alt="Посетить сайт Poetry" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://pre-commit.com/">
     <img
-      src="images/precommit-color.svg" alt="Pre-commit" width="50" height="auto" role="img"
-      alt="Посетить сайт Pre-commit"
+      src="images/precommit-color.svg" alt="Посетить сайт Pre-commit" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://black.readthedocs.io/en/stable/">
     <img
-      src="images/black-logo.png" alt="Black code formatter" width="130" height="auto" role="img"
-      alt="Посетить сайт Black code formatter"
+      src="images/black-logo.png" alt="Посетить сайт Black code formatter" width="130" height="auto" role="img"
     >
   </a>
   <a href="https://www.postman.com/">
     <img
-      src="images/postman-color.svg" alt="Postman" width="50" height="auto" role="img"
-      alt="Посетить сайт Postman"
+      src="images/postman-color.svg" alt="Посетить сайт Postman" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://www.docker.com/">
     <img
-      src="images/docker-color.svg" alt="Docker" width="50" height="auto" role="img"
-      alt="Посетить сайт Docker"
+      src="images/docker-color.svg" alt="Посетить сайт Docker" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://www.notion.so/">
     <img
-      src="images/notion-color.svg" alt="Notion" width="50" height="auto" role="img"
-      alt="Посетить сайт Notion"
+      src="images/notion-color.svg" alt="Посетить сайт Notion" width="50" height="auto" role="img"
     >
   </a>
   <a href="https://lucid.app/">
     <img
-      src="images/lucid-color.svg" alt="Lucid" width="50" height="auto" role="img"
-      alt="Посетить сайт Lucid"
+      src="images/lucid-color.svg" alt="Посетить сайт Lucid" width="50" height="auto" role="img"
     >
   </a>
 </div>
