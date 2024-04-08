@@ -114,6 +114,10 @@
   </a>
 </div>
 
+### GitHub stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bbv-87&theme=blue-green)](https://git.io/streak-stats)
+
+
 <!--
 **bbv-87/bbv-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
