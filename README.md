@@ -2,7 +2,7 @@
 <div>
   <a href="https://www.python.org/">
     <img
-      src="images/python-color.svg" alt="Посетить сайт Python" width="50" height="auto" role="img"
+      src="images/python-logo-only.svg" alt="Посетить сайт Python" width="41" height="auto" role="img"
     >
   </a>
   <a href="https://fastapi.tiangolo.com/">
