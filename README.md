@@ -99,6 +99,11 @@
       src="images/lucid-color-new.png" alt="Посетить сайт Lucid" width="43" height="auto" role="img"
     >
   </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img
+      src="images/gnubash-color.svg" alt="Посетить сайт GNUBash" width="50" height="auto" role="img"
+    >
+  </a>
 </div>
 
 <!--
