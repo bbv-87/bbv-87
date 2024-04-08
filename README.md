@@ -102,7 +102,7 @@
 </div>
 
 ### GitHub stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bbv-87&theme=blue-green)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbv-87&theme=algolia)
 
 
 <!--
