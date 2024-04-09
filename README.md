@@ -1,7 +1,7 @@
 ### About me:
 I have many years of experience in the IT industry as a network engineer, system administrator and team leader.
 
-Currently fully focused on software development as a Backend Developer.
+Currently fully focused on software development as a backend developer.
 
 
 ### Stack:
