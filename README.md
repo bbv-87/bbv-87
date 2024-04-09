@@ -38,7 +38,7 @@ Currently fully focused on software development as a backend developer.
   </a>
 </div>
 
-### Tools:
+### Environment & Tools:
 <div>
   <a href="//www.jetbrains.com/pycharm/">
     <img src="images/pycharm.svg" alt="Посетить сайт PyCharm" width="50" height="auto" role="img">
