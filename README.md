@@ -71,3 +71,6 @@ Currently fully focused on software development as a backend developer.
     <img src="images/gnubash.svg" alt="Посетить сайт GNUBash" width="50" height="auto" role="img">
   </a>
 </div>
+
+### Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbv-87&theme=default)
