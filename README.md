@@ -14,7 +14,3 @@ I build production-oriented backend systems with an emphasis on maintainability,
 - Monitoring, logging, and observability
 - Network engineering and IT infrastructure
 - Technical leadership and team coordination
-
-### GitHub activity
-
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbv-87&theme=default)
