@@ -2,22 +2,18 @@
 
 Python backend developer with extensive experience in networking, system administration, IT infrastructure, and technical leadership.
 
-I build backend services and APIs with an emphasis on maintainability, reliability, observability, and production operations.
+I build production-oriented backend systems with an emphasis on maintainability, reliability, observability, and operational simplicity.
 
 ### Areas of expertise
 
-- Backend development with Python
+- Python backend development
 - FastAPI, Django, Django REST Framework, and Flask
 - PostgreSQL, SQLAlchemy, and Pydantic
 - REST API design and relational data modelling
 - Docker, Nginx, Linux, and Bash
 - Monitoring, logging, and observability
-- IT infrastructure and network engineering
+- Network engineering and IT infrastructure
 - Technical leadership and team coordination
-
-### Current focus
-
-I'm focused on designing production-oriented backend systems, improving software architecture, and applying my infrastructure experience throughout the entire application lifecycle.
 
 ### GitHub activity
 
